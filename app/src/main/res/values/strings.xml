@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">11.2.networking-2</string>
+    <string name="numberline">Number line</string>
+    <string name="numbercharacter">Number of characters</string>
+</resources>
